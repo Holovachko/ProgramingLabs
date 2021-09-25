@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<ArrayOfPretendent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pretendent>
+    <Fullname>Anton Ivanov</Fullname>
+    <EyesColor>green</EyesColor>
+    <Salary>10000</Salary>
+    <Age>18</Age>
+    <Apartament>true</Apartament>
+  </Pretendent>
+  <Pretendent>
+    <Fullname>Ivan Petrenko</Fullname>
+    <EyesColor>blue</EyesColor>
+    <Salary>5000</Salary>
+    <Age>21</Age>
+    <Apartament>false</Apartament>
+  </Pretendent>
+  <Pretendent>
+    <Fullname>Misha Zaharov</Fullname>
+    <EyesColor>blue</EyesColor>
+    <Salary>20000</Salary>
+    <Age>30</Age>
+    <Apartament>true</Apartament>
+  </Pretendent>
+  <Pretendent>
+    <Fullname>Vasyl Kiselev</Fullname>
+    <EyesColor>green</EyesColor>
+    <Salary>50000</Salary>
+    <Age>33</Age>
+    <Apartament>true</Apartament>
+  </Pretendent>
+  <Pretendent>
+    <Fullname>John Shelby</Fullname>
+    <EyesColor>brown</EyesColor>
+    <Salary>15000</Salary>
+    <Age>23</Age>
+    <Apartament>false</Apartament>
+  </Pretendent>
+</ArrayOfPretendent>

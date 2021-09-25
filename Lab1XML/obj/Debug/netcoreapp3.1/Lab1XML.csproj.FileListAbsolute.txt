@@ -1,0 +1,13 @@
+C:\Users\Вася\source\repos\Lab1XML\obj\Debug\netcoreapp3.1\Lab1XML.csprojAssemblyReference.cache
+C:\Users\Вася\source\repos\Lab1XML\obj\Debug\netcoreapp3.1\Lab1XML.AssemblyInfoInputs.cache
+C:\Users\Вася\source\repos\Lab1XML\obj\Debug\netcoreapp3.1\Lab1XML.AssemblyInfo.cs
+C:\Users\Вася\source\repos\Lab1XML\obj\Debug\netcoreapp3.1\Lab1XML.csproj.CoreCompileInputs.cache
+C:\Users\Вася\source\repos\Lab1XML\bin\Debug\netcoreapp3.1\Lab1XML.exe
+C:\Users\Вася\source\repos\Lab1XML\bin\Debug\netcoreapp3.1\Lab1XML.deps.json
+C:\Users\Вася\source\repos\Lab1XML\bin\Debug\netcoreapp3.1\Lab1XML.runtimeconfig.json
+C:\Users\Вася\source\repos\Lab1XML\bin\Debug\netcoreapp3.1\Lab1XML.runtimeconfig.dev.json
+C:\Users\Вася\source\repos\Lab1XML\bin\Debug\netcoreapp3.1\Lab1XML.dll
+C:\Users\Вася\source\repos\Lab1XML\bin\Debug\netcoreapp3.1\Lab1XML.pdb
+C:\Users\Вася\source\repos\Lab1XML\obj\Debug\netcoreapp3.1\Lab1XML.dll
+C:\Users\Вася\source\repos\Lab1XML\obj\Debug\netcoreapp3.1\Lab1XML.pdb
+C:\Users\Вася\source\repos\Lab1XML\obj\Debug\netcoreapp3.1\Lab1XML.genruntimeconfig.cache
